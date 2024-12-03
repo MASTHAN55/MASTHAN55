@@ -1,57 +1,30 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">Hi 👋, I'm MASTHANVALI</h1>
-<h3 align="center">DevOps Engineer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MASTHAN55&label=Profile%20views&color=0e75b6&style=flat" alt="MASTHAN55" /> </p>
+<div align="center">
+    <img src="https://github.com/Haripalepu/Haripalepu/blob/main/git_banner.png" alt="GitHub Banner" width="800"/>
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MASTHAN55&theme=" alt="MASTHAN55" /></a> </p>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Masthanvali Shaik 
+===========================================================================================================================================
 
-- 🌱 I’m currently learning **DEVOPS, AWS, and LINUX**
-- 💬 Ask me about **DEVOPS, AWS, and LINUX**
-- 📫 How to reach me **msthan641vai@gmail.com**
+Sr DevOps Engineer
+------------------
 
-<div> <a href="https://www.linkedin.com/in/masthanvs1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/MASTHAN55" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href = "mailto:masthan641vali@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Connect with me:</h3>
+🚀 DevOps professional with 4.5 Years of Cloud Experience I work with both AWS and Azure, including Azure DevOps. I build and manage cloud infrastructure to make software delivery faster and more reliable. I use DevOps tools to help projects run smoothly, scale well, and stay secure. I create CI/CD pipelines, automate deployments, and manage containers with Docker and Kubernetes. I aim to reduce downtime and improve development speed. I use Terraform to set up cloud resources like VMs, App Services, EC2, S3, and Load Balancers. I also monitor performance with tools like Azure Monitor, CloudWatch, and Prometheus, keeping applications running efficiently. I write scripts using Shell, Bash, and python to automate tasks, troubleshoot issues, and maintain 24/7 service availability. I follow best practices to keep cloud environments safe and efficient. Skills: Cloud Platforms: AWS, Azure Infrastructure as Code: Terraform, ARM Templates CI/CD Tools: Azure DevOps, Jenkins Containerization: Docker, Kubernetes Monitoring Tools: Azure Monitor, CloudWatch, Prometheus Scripting: Shell, Bash, PowerShell Networking: VPCs, Load Balancers, Security Groups Databases: RDS, SQL. Security: IAM, RBAC, Key Vault Deployment: Azure App Services, EC2, VMs.
+🌟 Let’s work together to bring success to your cloud projects!
+
+* 🌍  I'm based in Bangalore, India
+* ✉️  You can contact me at [harikpalepu@gmail.com](mailto:harikpalepu@gmail.com)
+* 🧠  I'm learning Kubernetes Advanced Concepts: Diving into topics like Helm charts, service meshes, and Kubernetes security for better orchestration and cluster management.
+* 🤝  I'm open to collaborating on Cloud Infrastructure Projects: Building scalable and secure cloud environments using AWS, Azure, and Terraform. CI/CD Implementation: Designing and optimizing CI/CD pipelines with Azure DevOps, GitHub Actions, and Jenkins to improve software delivery speed and reliability. Containerization Solutions: Developing and managing containerized applications using Docker and Kubernetes to enhance deployment and scalability. DevOps Automation: Automating infrastructure tasks, configuration management, and monitoring to streamline operations and improve efficiency. Technical Blogging: Co-authoring blogs or articles on topics related to DevOps, cloud automation, Docker, or Kubernetes to share knowledge and insights.
+* ⚡  Open to Learning New Tools & Technologies: I enjoy exploring emerging tools and platforms in DevOps, cloud computing, and automation to stay ahead in the industry. Mentorship: I am passionate about mentoring budding DevOps engineers, guiding them through cloud concepts, CI/CD, and best practices in automation. Hackathons & Events: I am enthusiastic about participating in hackathons, conferences, and tech meetups to collaborate, learn, and share insights with the community. Feedback & Improvement: I am always open to feedback to enhance my skills and contribute better to cloud projects and team efforts.
+
+### Skills
+
+
 <p align="left">
-<a href="https://www.linkedin.com/in/masthanvs1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="www.linkedin.com/in/masthanvas1" height="30" width="40" /></a></p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/amazonwebservices-original-wordmark.svg" alt="Amazon Web Services" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/microsoft_azure-icon.svg" alt="Microsoft Azure" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Framework/django.svg" alt="Django" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Visualization/elasticco_kibana-icon.svg" alt="Kibana" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Visualization/grafana-icon.svg" alt="Grafana" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim.svg" width="36" height="36" alt="Vim" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
 </p>
 
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MASTHAN55&layout=compact&theme=dark" alt=MASTHAN55 />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=MASTHAN55&show_icons=true&locale=en&theme=dark" alt="MASTHAN55" /></p>
+### Socials
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MASTHAN55&theme=dark" alt="MASTHAN55" /></p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div align="center">
-<a href="https://github.com/MASTHAN55">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MASTHAN55&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MASTHAN55&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MASTHAN55&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MASTHAN55&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MASTHAN55&theme=2077" height="180em" />
-</div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=MASTHAN55&theme=default"/>
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+<p align="left"> <a href="https://www.github.com/hari-palepu" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/haripalepu" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/@hareepalepu" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a></p>
