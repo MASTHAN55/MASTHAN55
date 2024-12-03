@@ -17,7 +17,6 @@ DevOps Engineer
 * 🤝  I'm open to collaborating on Cloud Infrastructure Projects: Building scalable and secure cloud environments using AWS, and Terraform. CI/CD Implementation: Designing and optimizing CI/CD pipelines, GitHub Actions, and Jenkins to improve software delivery speed and reliability. Containerization Solutions: Developing and managing containerized applications using Docker and Kubernetes to enhance deployment and scalability. DevOps Automation: Automating infrastructure tasks, configuration management, and monitoring to streamline operations and improve efficiency. Technical Blogging: Co-authoring blogs or articles on topics related to DevOps, cloud automation, Docker, or Kubernetes to share knowledge and insights.
 * ⚡  Open to Learning New Tools & Technologies: I enjoy exploring emerging tools and platforms in DevOps, cloud computing, and automation to stay ahead in the industry. Mentorship: I am passionate about mentoring budding DevOps engineers, guiding them through cloud concepts, CI/CD, and best practices in automation. Feedback & Improvement: I am always open to feedback to enhance my skills and contribute better to cloud projects and team efforts.
 
-### Skills
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
